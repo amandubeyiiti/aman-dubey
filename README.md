@@ -1,16 +1,16 @@
 # Aman Dubey - Portfolio
 
-Welcome to my GitHub portfolio!  I'm **Aman Dubey**, a problem solver in making - part physicist, part engineer, passionatly interested in simulations, designing and calibration of detectors for astronomy and astrophysics application. 
+Welcome to my GitHub portfolio!  I'm **Aman Dubey**, a problem solver in making - part physicist, part engineer, passionately interested in simulations, designing, and calibration of detectors for astronomy and astrophysics applications. 
 
-This repository highlights about the worked done by me as part of my academic journey, internships, and personal exploration into technology-driven problem solving.
+This repository highlights my work as part of my academic journey, internships, and personal exploration of technology-driven problem-solving.
 
 ---
 
 ## About Me
-- **Worked as Space Engineering student** at Indian Institute of Technology, Indore, India.
-- **Worked as Physics student** at National Institute of Technology, Karnataka, India.
-- Proficient in GEANT4 simulations, ROOT and programming language like Python, C++ and MATLAB.
-- Experience in GEANT4 simulations for Space Based detectors for High energy astronomy application, including modelling, calibration and data analysis.
+- **Worked as a Space Engineering student** at the Indian Institute of Technology, Indore, India.
+- **Worked as a Physics student** at the National Institute of Technology, Karnataka, India.
+- Proficient in GEANT4 simulations, ROOT, and programming languages like Python, C++, and MATLAB.
+- Experience in GEANT4 simulations for Space-based detectors for High-energy astronomy applications, including modelling, calibration, and data analysis.
 ---
 
 ## Skills
